@@ -1,0 +1,5 @@
+D:\NETCkratka\TDDShip\Ship\bin\Debug\Ship.dll
+D:\NETCkratka\TDDShip\Ship\bin\Debug\Ship.pdb
+D:\NETCkratka\TDDShip\Ship\obj\Debug\Ship.dll
+D:\NETCkratka\TDDShip\Ship\obj\Debug\Ship.pdb
+D:\NETCkratka\TDDShip\Ship\obj\Debug\Ship.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\NETCkratka\TDDShip\Game\bin\Debug\Game.exe.config
+D:\NETCkratka\TDDShip\Game\bin\Debug\Game.exe
+D:\NETCkratka\TDDShip\Game\bin\Debug\Game.pdb
+D:\NETCkratka\TDDShip\Game\bin\Debug\Ship.dll
+D:\NETCkratka\TDDShip\Game\bin\Debug\Ship.pdb
+D:\NETCkratka\TDDShip\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\NETCkratka\TDDShip\Game\obj\Debug\Game.csproj.CopyComplete
+D:\NETCkratka\TDDShip\Game\obj\Debug\Game.exe
+D:\NETCkratka\TDDShip\Game\obj\Debug\Game.pdb

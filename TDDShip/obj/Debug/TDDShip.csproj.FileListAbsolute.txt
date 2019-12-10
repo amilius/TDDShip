@@ -1,0 +1,16 @@
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\TDDShip.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\TDDShip.pdb
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Ship.dll
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Ship.pdb
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\NETCkratka\TDDShip\TDDShip\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\NETCkratka\TDDShip\TDDShip\obj\Debug\TDDShip.csprojAssemblyReference.cache
+D:\NETCkratka\TDDShip\TDDShip\obj\Debug\TDDShip.csproj.CoreCompileInputs.cache
+D:\NETCkratka\TDDShip\TDDShip\obj\Debug\TDDShip.csproj.CopyComplete
+D:\NETCkratka\TDDShip\TDDShip\obj\Debug\TDDShip.dll
+D:\NETCkratka\TDDShip\TDDShip\obj\Debug\TDDShip.pdb
